@@ -1,0 +1,8 @@
+RENCANA KONTEN RD
+
+- JAVASCRIPT
+  * ES6
+  * Framwework Javascript
+- PHP FRAMEWORK
+- INTERVIEW
+- VLOG
