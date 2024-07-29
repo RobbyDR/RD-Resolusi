@@ -3,7 +3,10 @@ RENCANA KONTEN RD
 - JAVASCRIPT
   * ES6
   * Framwework Javascript
+    ^ Vie JS
+    ^ Menambah Reach JS
 - Struktur Data Dasar
 - PHP FRAMEWORK
 - INTERVIEW
 - VLOG
+- PYTHON
