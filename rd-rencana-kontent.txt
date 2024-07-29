@@ -3,6 +3,7 @@ RENCANA KONTEN RD
 - JAVASCRIPT
   * ES6
   * Framwework Javascript
+- Struktur Data Dasar
 - PHP FRAMEWORK
 - INTERVIEW
 - VLOG
