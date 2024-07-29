@@ -5,6 +5,9 @@ RENCANA KONTEN RD
   * Framwework Javascript
     ^ Angular JS
     ^ React JS
+    ^ Vue JS
+- Struktur Data Dasar
 - PHP FRAMEWORK
 - INTERVIEW
 - VLOG
+- PYTHON
